@@ -10,20 +10,20 @@ class Solution {
 
         for (int i = 0 ; i < pattern.length() ; i++){
             char c = pattern.charAt(i);
-            String word = words[i];
+            String w = words[i];
 
             if (map1.containsKey(c)){
-                if (!map1.get(c).equals(word)) return false ;
+                if (!map1.get(c).equals(w)) return false ;
 
             }else{
-                map1.put(c , word );
+                map1.put(c , w );
             }
 
-            if (map2.containsKey(word)){
-                if (map2.get(word)!= (c)) return false ;
+            if (map2.containsKey(w)){
+                if (map2.get(w)!= (c)) return false ;
 
             }else{
-                map2.put(word , c );
+                map2.put(w , c );
             }
         }
         return true ;
