@@ -21,4 +21,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0876-middle-of-the-linked-list) |
+## Array
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0713-subarray-product-less-than-k) |
+## Binary Search
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0713-subarray-product-less-than-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0713-subarray-product-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
