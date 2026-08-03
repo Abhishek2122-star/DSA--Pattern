@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0875-koko-eating-bananas) |
 ## Sliding Window
 |  |
 | ------- |
