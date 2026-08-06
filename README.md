@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0367-valid-perfect-square) |
 ## Newton's Method
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0020-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
