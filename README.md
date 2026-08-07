@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0035-search-insert-position) |
+| [0056-merge-intervals](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0074-search-a-2d-matrix) |
 | [0137-single-number-ii](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0056-merge-intervals) |
 ## Matrix
 |  |
 | ------- |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0137-single-number-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
