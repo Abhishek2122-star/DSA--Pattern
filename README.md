@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0713-subarray-product-less-than-k) |
+| [0739-daily-temperatures](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0875-koko-eating-bananas) |
 | [3033-modify-the-matrix](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/3033-modify-the-matrix) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -149,4 +151,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
