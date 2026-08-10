@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0074-search-a-2d-matrix) |
 | [0137-single-number-ii](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0283-move-zeroes) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0367-valid-perfect-square](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0367-valid-perfect-square) |
 ## Newton's Method
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0232-implement-queue-using-stacks) |
