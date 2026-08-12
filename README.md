@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0071-simplify-path) |
 | [0205-isomorphic-strings](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0290-word-pattern) |
+| [0394-decode-string](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0402-remove-k-digits) |
 ## Linked List
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0739-daily-temperatures) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0050-powx-n) |
+| [0394-decode-string](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0394-decode-string) |
 ## Design
 |  |
 | ------- |
