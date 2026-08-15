@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0875-koko-eating-bananas) |
+| [0946-validate-stack-sequences](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0946-validate-stack-sequences) |
 | [3033-modify-the-matrix](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/3033-modify-the-matrix) |
 ## Binary Search
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0739-daily-temperatures) |
+| [0946-validate-stack-sequences](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0946-validate-stack-sequences) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0084-largest-rectangle-in-histogram) |
+## Simulation
+|  |
+| ------- |
+| [0946-validate-stack-sequences](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0946-validate-stack-sequences) |
 <!---LeetCode Topics End-->
