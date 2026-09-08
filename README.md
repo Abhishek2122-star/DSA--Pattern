@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0142-linked-list-cycle-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0084-largest-rectangle-in-histogram) |
 | [0137-single-number-ii](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0075-sort-colors) |
 ## Matrix
 |  |
 | ------- |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0075-sort-colors) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -242,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0046-permutations) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
