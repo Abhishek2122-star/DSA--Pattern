@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0205-isomorphic-strings) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0042-trapping-rain-water) |
 | [0410-split-array-largest-sum](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0410-split-array-largest-sum) |
 ## Greedy
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0084-largest-rectangle-in-histogram) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0032-longest-valid-parentheses) |
 ## Recursion
 |  |
 | ------- |
