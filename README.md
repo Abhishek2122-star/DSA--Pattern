@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0071-simplify-path) |
