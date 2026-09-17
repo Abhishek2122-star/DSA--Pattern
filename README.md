@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/1089-duplicate-zeros) |
 ## Array
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0875-koko-eating-bananas) |
 | [0946-validate-stack-sequences](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/1089-duplicate-zeros) |
 | [3033-modify-the-matrix](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/3033-modify-the-matrix) |
 ## Binary Search
 |  |
