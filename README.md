@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/1089-duplicate-zeros) |
 | [3033-modify-the-matrix](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/3033-modify-the-matrix) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/3364-minimum-positive-sum-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -120,11 +121,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0713-subarray-product-less-than-k) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/3364-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0713-subarray-product-less-than-k) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/3364-minimum-positive-sum-subarray) |
 ## Sorting
 |  |
 | ------- |
