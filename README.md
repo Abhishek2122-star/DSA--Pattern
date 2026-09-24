@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/1089-duplicate-zeros) |
 | [3033-modify-the-matrix](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/3033-modify-the-matrix) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/3364-minimum-positive-sum-subarray) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0224-basic-calculator) |
 | [0367-valid-perfect-square](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0367-valid-perfect-square) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Newton's Method
 |  |
 | ------- |
