@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0283-move-zeroes) |
+| [0832-flipping-an-image](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/1089-duplicate-zeros) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0739-daily-temperatures) |
+| [0832-flipping-an-image](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0875-koko-eating-bananas) |
 | [0946-validate-stack-sequences](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0946-validate-stack-sequences) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0074-search-a-2d-matrix) |
+| [0832-flipping-an-image](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0832-flipping-an-image) |
 | [3033-modify-the-matrix](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/3033-modify-the-matrix) |
 ## Dynamic Programming
 |  |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0137-single-number-ii) |
+| [0832-flipping-an-image](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0832-flipping-an-image) |
 ## Quicksort
 |  |
 | ------- |
@@ -247,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0832-flipping-an-image) |
 | [0946-validate-stack-sequences](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0946-validate-stack-sequences) |
 ## Floyd's Cycle Finding Algorithm
 |  |
