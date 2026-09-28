@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0290-word-pattern) |
 | [0394-decode-string](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0402-remove-k-digits) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
 |  |
 | ------- |
@@ -198,11 +199,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0946-validate-stack-sequences) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0032-longest-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
 |  |
 | ------- |
