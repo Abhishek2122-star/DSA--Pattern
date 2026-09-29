@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0290-word-pattern) |
 | [0394-decode-string](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0402-remove-k-digits) |
+| [0925-long-pressed-name](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0925-long-pressed-name) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0876-middle-of-the-linked-list) |
+| [0925-long-pressed-name](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/1089-duplicate-zeros) |
 ## Array
