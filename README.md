@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0496-next-greater-element-i) |
+| [2540-minimum-common-value](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/1089-duplicate-zeros) |
+| [2540-minimum-common-value](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/2540-minimum-common-value) |
 ## Array
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/1089-duplicate-zeros) |
+| [2540-minimum-common-value](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/2540-minimum-common-value) |
 | [3033-modify-the-matrix](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/3033-modify-the-matrix) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/3364-minimum-positive-sum-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0875-koko-eating-bananas) |
+| [2540-minimum-common-value](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/2540-minimum-common-value) |
 ## Sliding Window
 |  |
 | ------- |
