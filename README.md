@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0496-next-greater-element-i) |
+| [1763-longest-nice-substring](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/1763-longest-nice-substring) |
 | [2540-minimum-common-value](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/2540-minimum-common-value) |
 ## String
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0402-remove-k-digits) |
 | [0925-long-pressed-name](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0925-long-pressed-name) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1763-longest-nice-substring](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/1763-longest-nice-substring) |
 ## Linked List
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0713-subarray-product-less-than-k) |
+| [1763-longest-nice-substring](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/1763-longest-nice-substring) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/3364-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0137-single-number-ii) |
 | [0832-flipping-an-image](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0832-flipping-an-image) |
+| [1763-longest-nice-substring](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/1763-longest-nice-substring) |
 ## Quicksort
 |  |
 | ------- |
@@ -271,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0023-merge-k-sorted-lists) |
+| [1763-longest-nice-substring](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
