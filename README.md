@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0290-word-pattern) |
 | [0394-decode-string](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0678-valid-parenthesis-string) |
 | [0925-long-pressed-name](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0925-long-pressed-name) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1763-longest-nice-substring](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/1763-longest-nice-substring) |
@@ -165,11 +166,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0042-trapping-rain-water) |
 | [0410-split-array-largest-sum](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0678-valid-parenthesis-string) |
 ## Math
 |  |
 | ------- |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0946-validate-stack-sequences) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -214,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
 |  |
