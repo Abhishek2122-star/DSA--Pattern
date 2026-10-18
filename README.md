@@ -323,4 +323,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0005-longest-palindromic-substring) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
