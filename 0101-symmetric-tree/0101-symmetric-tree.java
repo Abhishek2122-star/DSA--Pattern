@@ -42,5 +42,4 @@ class Solution {
         return isduplicate(left.left , right.right) && isduplicate(left.right , right.left);
     }
 
-
 }
