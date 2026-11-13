@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0071-simplify-path) |
 | [0131-palindrome-partitioning](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0151-reverse-words-in-a-string) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0043-multiply-strings) |
 | [0832-flipping-an-image](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0832-flipping-an-image) |
 | [0946-validate-stack-sequences](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0946-validate-stack-sequences) |
 ## Floyd's Cycle Finding Algorithm
