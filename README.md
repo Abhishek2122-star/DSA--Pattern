@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0678-valid-parenthesis-string) |
+| [0680-valid-palindrome-ii](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0680-valid-palindrome-ii) |
 | [0925-long-pressed-name](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0925-long-pressed-name) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1763-longest-nice-substring](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/1763-longest-nice-substring) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0283-move-zeroes) |
+| [0680-valid-palindrome-ii](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0876-middle-of-the-linked-list) |
 | [0925-long-pressed-name](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0925-long-pressed-name) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0678-valid-parenthesis-string) |
+| [0680-valid-palindrome-ii](https://github.com/Abhishek2122-star/DSA--Pattern/tree/master/0680-valid-palindrome-ii) |
 ## Math
 |  |
 | ------- |
